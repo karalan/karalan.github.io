@@ -14,7 +14,7 @@ changed to a eurovision logo blue
 */
 .custom {
 	background: #0f4476;
-	width: 400px;
+	width: 600px;
 	transition: opacity 1s;
 	padding: 2px;
 
@@ -86,7 +86,8 @@ changed to a eurovision logo blue
 	font-size: 15px;
 }
 .custom .options li.question {
-	background-image: url(https://karalan.github.io/evlogostrip.jpg);
+	background-image: url(https://karalan.github.io/polllogo.png);
+	background-size: 350px 150px;
 	height: 242px;
 	padding: 5px 5px;
 	white-space: normal;
