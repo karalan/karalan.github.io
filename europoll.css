@@ -98,10 +98,10 @@ changed to a eurovision logo blue
 }
 }
 .custom .options li.help {
-	background: color: #184072;
-	text-align: center;
+	background: #184072;
+	text-align: left;
 	overflow: hidden;
-	height: 0;
+
 }
 .custom .options li.help span {
 	display: block;
