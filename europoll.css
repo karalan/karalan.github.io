@@ -57,7 +57,7 @@ changed to a eurovision logo blue
 .custom .duration strong {
 	color: #fff;
 	font-size: 20px;
-	display: block;
+	float: right;
 }
 /* .custom .total {
 	margin-right: 2%;
