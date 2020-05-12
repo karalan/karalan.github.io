@@ -80,7 +80,7 @@ changed to a eurovision logo blue
 	padding: 10px;
 	color: #fff;
 	text-overflow: ellipsis;
-	background: #888;
+	background: #224996;
 	padding-right: 55px;
 	padding-left: 55px;
 	font-size: 15px;
@@ -99,7 +99,7 @@ changed to a eurovision logo blue
 }
 }
 .custom .options li.help {
-	background: #224996;
+	background: #002c5d;
 	text-align: center;
 	overflow: hidden;
 	height: 0;
