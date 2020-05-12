@@ -72,12 +72,12 @@ changed to a eurovision logo blue
 	opacity: 0.3;
 }
 .custom.active .options li.help {
-	height: 27px;
+	height: 20px;
 }
 .custom .options li {
 	position: relative;
 	border: 1px;
-	padding: 10px;
+	padding: 1px;
 	color: #fff;
 	text-overflow: ellipsis;
 	background: #002c5d;
