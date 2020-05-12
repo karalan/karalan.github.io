@@ -73,7 +73,6 @@ changed to a eurovision logo blue
 }
 .custom.active .options li.help {
 	height: 23px;
-	color: #184072;
 }
 .custom .options li {
 	position: relative;
@@ -99,7 +98,7 @@ changed to a eurovision logo blue
 }
 }
 .custom .options li.help {
-	background: #002c5d;
+	background: color: #184072;
 	text-align: center;
 	overflow: hidden;
 	height: 0;
