@@ -86,16 +86,15 @@ changed to a eurovision logo blue
 	font-size: 15px;
 }
 .custom .options li.question {
-	background-image: url(https://karalan.github.io/polllogo2.png);
-	background-size: 600px 200px;
-	height: 180px;
+	background: #0f4476
+	height: 50px;
 	padding: 5px 15px;
 	white-space: normal;
 	clear: both;
-	line-height: 1.6;
+	line-height: 1.3;
 	font-size: 30px;
-	display: flex;
-	align-items: flex-end;
+	position: relative;
+
 }
 }
 .custom .options li.help {
