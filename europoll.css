@@ -89,7 +89,7 @@ changed to a eurovision logo blue
 	background-image: url(https://karalan.github.io/polllogo2.png);
 	background-size: 600px 200px;
 	height: 180px;
-	padding: 5px 5px;
+	padding: 5px 15px;
 	white-space: normal;
 	clear: both;
 	line-height: 1.6;
@@ -99,7 +99,7 @@ changed to a eurovision logo blue
 }
 }
 .custom .options li.help {
-	background: #002c5d;
+	background: #224996;
 	text-align: center;
 	overflow: hidden;
 	height: 0;
