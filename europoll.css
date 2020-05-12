@@ -16,7 +16,7 @@ changed to a eurovision logo blue
 	background: #0f4476;
 	width: 400px;
 	transition: opacity 1s;
-	padding: 10px;
+	padding: 2px;
 
 	font-family: Abel;
 
@@ -72,12 +72,12 @@ changed to a eurovision logo blue
 	opacity: 0.3;
 }
 .custom.active .options li.help {
-	height: 35px;
+	height: 27px;
 }
 .custom .options li {
 	position: relative;
 	border: 1px;
-	padding: 10px;
+	padding: 1px;
 	color: #fff;
 	text-overflow: ellipsis;
 	background: #888;
@@ -87,7 +87,7 @@ changed to a eurovision logo blue
 }
 .custom .options li.question {
 	background-image: url(https://karalan.github.io/evlogostrip.jpg);
-	background-size: 350px 80px;
+	background-size: 350px 150px;
 	padding: 5px 5px;
 	white-space: normal;
 	clear: both;
