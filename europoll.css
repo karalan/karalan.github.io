@@ -15,12 +15,10 @@ changed to a eurovision logo blue
 .custom {
 	background: #0f4476;
 	width: 390px;
-	height: 200px;
+	height: 205px;
 	transition: opacity 1s;
 	padding: 2px;
-
 	font-family: Abel;
-
 	// Hide when not active
 	opacity: 0;
 }
