@@ -94,14 +94,11 @@ changed to a eurovision logo blue
 	line-height: 1.3;
 	font-size: 30px;
 	position: relative;
-
-}
 }
 .custom .options li.help {
 	background: #184072;
 	text-align: left;
 	overflow: hidden;
-
 }
 .custom .options li.help span {
 	display: block;
