@@ -30,11 +30,11 @@ changed to a eurovision logo blue
 }
 
 .custom .metaInfo {
-	background: green;
+	background: #184072;
 	overflow: hidden;
 	padding: 0 10px;
 }
-.custom .total, .custom .duration {
+.custom .duration {
 	background: #fff;
 	float: left;
 	width: 1%;
@@ -43,6 +43,15 @@ changed to a eurovision logo blue
 	margin: 10px 0;
 	line-height: 1.3;
 	opacity: 0;
+}
+.custom .total {
+	background: #fff;
+	float: left;
+	width: 90%;
+	text-align: center;
+	padding: 10px;
+	margin: 10px 0;
+	line-height: 1.3;
 }
 .custom .total strong,
 .custom .duration strong {
