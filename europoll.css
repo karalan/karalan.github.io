@@ -10,9 +10,10 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 
 /*
 * "custom" refers to the theme assigned to the poll element
+changed to a eurovision logo blue
 */
 .custom {
-	background: #000;
+	background: #0f4476;
 	width: 400px;
 	transition: opacity 1s;
 	padding: 10px;
@@ -133,10 +134,10 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 }
 
 /*
-* Optional outer border
+* Optional outer border - have removed for size
 */
 .custom .border {
-	border: 5px solid red;
+	opacity: 0;
 }
 
 
