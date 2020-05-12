@@ -14,7 +14,7 @@ changed to a eurovision logo blue
 */
 .custom {
 	background: #0f4476;
-	width: 375px;
+	width: 380px;
 	height: 200px;
 	transition: opacity 1s;
 	padding: 2px;
@@ -71,7 +71,6 @@ changed to a eurovision logo blue
 .custom.removing .options li.highest {
 	color: #ffa;
 	opacity: 1;
-	padding-top: 10px;
 }
 
 .custom.finished .options li.help,
@@ -88,7 +87,7 @@ changed to a eurovision logo blue
 .custom .options li {
 	position: relative;
 	border: 1px;
-	padding: 1px;
+	padding: 5px;
 	color: #fff;
 	text-overflow: ellipsis;
 	background: #002c5d;
