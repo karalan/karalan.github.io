@@ -77,7 +77,7 @@ changed to a eurovision logo blue
 .custom .options li {
 	position: relative;
 	border: 1px;
-	padding: 1px;
+	padding: 10px;
 	color: #fff;
 	text-overflow: ellipsis;
 	background: #888;
@@ -88,6 +88,7 @@ changed to a eurovision logo blue
 .custom .options li.question {
 	background-image: url(https://karalan.github.io/evlogostrip.jpg);
 	background-size: 350px 150px;
+	height: 150px;
 	padding: 5px 5px;
 	white-space: normal;
 	clear: both;
