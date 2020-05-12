@@ -35,7 +35,7 @@ changed to a eurovision logo blue
 .custom .duration {
 	background: #fff;
 	float: left;
-	width: 1%;
+	width: 0%;
 	text-align: center;
 	padding: 10px;
 	margin: 10px 0;
@@ -44,8 +44,8 @@ changed to a eurovision logo blue
 }
 .custom .total {
 	background: #002c5d;
-	float: right;
-	width: 99%;
+	float: left;
+	width: 100%;
 	text-align: left;
 	padding: 10px;
 	margin: 5px 0;
