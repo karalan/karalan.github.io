@@ -124,6 +124,7 @@ changed to a eurovision logo blue
 	background: #fff;
 	height: 5px;
 	margin-top: 5px;
+	opacity: 0;
 }
 .custom .options li .bar .bar-inner {
 	background: #fff;
@@ -131,6 +132,7 @@ changed to a eurovision logo blue
 	width: 0;
 	transition: width 1s;
 	position: relative;
+	opacity: 0;
 }
 .custom .options li .text {
 	line-height: 1.3;
